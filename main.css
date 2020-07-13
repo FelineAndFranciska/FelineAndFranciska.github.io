@@ -1,12 +1,12 @@
 h1 {
     font-size: 3em;
     font-family: 'Georgia';
-    color: white;
+    color:  #ffffff;
 }
 p {
     font-size: 2em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: white;
+    font-family:'Georgia';
+    color:  #ffffff;
 }
 body {
   background-color: #000000;
