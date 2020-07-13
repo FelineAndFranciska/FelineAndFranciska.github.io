@@ -14,5 +14,5 @@ body {
   background-color: #000000;
 }
 #testimage { 
- visibility: hidden;
+display:none;
 }
