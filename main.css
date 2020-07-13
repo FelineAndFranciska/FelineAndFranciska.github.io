@@ -2,11 +2,13 @@ h1 {
     font-size: 3em;
     font-family: 'Georgia';
     color:  #ffffff;
+    text-align: center;
 }
 p {
     font-size: 2em;
     font-family:'Georgia';
     color:  #ffffff;
+    text-align: center;
 }
 body {
   background-color: #000000;
