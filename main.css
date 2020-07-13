@@ -12,12 +12,8 @@ p {
 }
 body {
   background-color: #000000;
-
 }
 #testimage { 
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
   width: 50%;
-  
+  Height:auto;
 }
