@@ -15,6 +15,6 @@ body {
 }
 
 #testimage { 
-  height: 200px;
-  width: 500px;
+  height: auto;
+  width: 50%;
 }
