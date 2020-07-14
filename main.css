@@ -38,4 +38,6 @@ body {
 
 .block {
     display: block;
+     width: 500px;
+  margin: auto;
 }
