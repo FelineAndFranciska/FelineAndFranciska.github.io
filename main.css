@@ -15,13 +15,16 @@ body {
 }
 
 #colorspell{ 
-  
+  width: 500px;
+   height: 100%;
 }
 
 #reflection {
-    
+   width: 500px;
+   height: 100%;  
 }
 
 #bones {
-    
+   width: 500px;
+   height: 100%;  
 }
