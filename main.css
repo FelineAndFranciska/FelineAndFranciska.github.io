@@ -56,18 +56,14 @@ body {
 
 span.b {
   display: inline-block;
-  width: 800px;
-  height: 1000px;
-  padding: 5px;
-  border: 1px solid blue;    
+  width: 50%;
+  height: 1000px; 
   background-color: yellow; 
 }
 
 span.a {
   display: inline-block;
-  width: 800px;
+  width: 50%;
   height: 1000px;
-  padding: 5px;
-  border: 1px solid blue;    
   background-color: red; 
 }
